@@ -1,0 +1,4 @@
+Filesystem          1K-blocks         Used    Available Use% Mounted on
+/dev/sda1            74936472     39220844     31902408  56% /
+tmpfs                32975608           64     32975544   1% /dev/shm
+/dev/clusterfs4 1006643707904 465834065920 540809641984  47% /calc_data

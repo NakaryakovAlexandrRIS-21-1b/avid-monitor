@@ -1,0 +1,59 @@
+Thu Jun 15 12:15:56 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 440.33.01    Driver Version: 440.33.01    CUDA Version: 10.2     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla P40           Off  | 00000000:2F:00.0 Off |                  Off |
+| N/A   26C    P8    16W / 250W |  19417MiB / 24451MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0       333      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe  3457MiB |
+|    0       908      G   ...v192/CFX/bin/linux-amd64/PreGui_ogl.exe     3MiB |
+|    0      2197      G   ...192/CFX/bin/linux-amd64/PostGui_ogl.exe    39MiB |
+|    0      4532      G   /usr/bin/X                                   409MiB |
+|    0      5344      G   /usr/bin/gnome-shell                          90MiB |
+|    0     12748      G   ...v192/CFX/bin/linux-amd64/PreGui_ogl.exe  1298MiB |
+|    0     14729      G   ...S/v221/CFX/bin/linux-amd64/Launcher.exe     3MiB |
+|    0     15464      G   ...v221/CFX/bin/linux-amd64/PreGui_ogl.exe   748MiB |
+|    0     19096      G   ...1/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0     24430      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   126MiB |
+|    0     31649      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   329MiB |
+|    0     37912      G   ...194/CFX/bin/linux-amd64/ChartViewer.exe     3MiB |
+|    0     41903      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   183MiB |
+|    0     54161      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0     59894      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe  2473MiB |
+|    0     61008      G   .../ANSYS/v192/Tools/mono/Linux64/bin/mono     3MiB |
+|    0     64866      G   ...2/aisol/CommonFiles/linx64/ansyswbu.exe    29MiB |
+|    0     65725      G   ...S/v194/CFX/bin/linux-amd64/Launcher.exe     3MiB |
+|    0     66250      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe  1515MiB |
+|    0     68551      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   490MiB |
+|    0     78154      G   ...2/aisol/CommonFiles/linx64/ansyswbu.exe    19MiB |
+|    0    107662      G   ...194/CFX/bin/linux-amd64/PostGui_ogl.exe   135MiB |
+|    0    139847      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    141337      G   ...v192/CFX/bin/linux-amd64/PreGui_ogl.exe   538MiB |
+|    0    149254      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    154769      G   ...S/v194/CFX/bin/linux-amd64/Launcher.exe     3MiB |
+|    0    154923      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    161268      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe  3042MiB |
+|    0    170145      G   ...v192/CFX/bin/linux-amd64/PreGui_ogl.exe   344MiB |
+|    0    171218      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    173385      G   ...194/CFX/bin/linux-amd64/PostGui_ogl.exe   299MiB |
+|    0    188060      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    191769      G   ...uent22.2.0/cortex/lnamd64/cortex.22.2.0    92MiB |
+|    0    198813      G   .../ANSYS/v191/icemcfd/linux64_amd/bin/med     3MiB |
+|    0    209971      G   ...S/v194/CFX/bin/linux-amd64/Launcher.exe     3MiB |
+|    0    210058      G   ...4/CFX/bin/linux-amd64/SolverManager.exe     3MiB |
+|    0    214470      G   ...192/CFX/bin/linux-amd64/PostGui_ogl.exe    47MiB |
+|    0    235209      G   ...192/CFX/bin/linux-amd64/PostGui_ogl.exe    36MiB |
+|    0    236033      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   492MiB |
+|    0    255389      G   .../ANSYS/v192/icemcfd/linux64_amd/bin/med     3MiB |
+|    0    256694      G   ...192/CFX/bin/linux-amd64/PostGui_ogl.exe    52MiB |
+|    0    260760      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe  2444MiB |
+|    0    261278      G   ...v194/CFX/bin/linux-amd64/PreGui_ogl.exe   493MiB |
++-----------------------------------------------------------------------------+

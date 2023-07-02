@@ -1,0 +1,99 @@
+ko     | login          | name           | VNC337            | VNC338
+
+ko-201 | Arkhangelska-t | Архангельская  | 5971              | 5971             
+ko-201 | Korablina      | Кораблина      | 5961              | 5961             
+ko-201 | shvedov        | Шведов         | 5951              | 5951             
+ko-201 | Tretyakovich-e | Третьякович    | 5981              |                  
+
+ko-203 | kazimardanov-m | Казимарданов   | 5913              | 5913             
+
+ko-504 | bogdanov       |                |                   |                  
+ko-504 | bushuev        |                |                   |                  
+ko-504 | dagldyan       |                |                   |                  
+ko-504 | dongauser      |                |                   |                  
+
+ko201  | amosova        | Амосова        | 5911              |                  
+ko201  | Arkhangelska   | Архангельская  | 5921              | 5921             
+ko201  | fedotov        | Федотов        | 5991              |                  
+ko201  | Pikulev        | Пикулев        | 5901              | 5901             
+ko201  | Platunova      | Платунова      | 5931              | 5931             
+ko201  | plotnikov      |                |                   |                  
+ko201  | Sedova         | Седова         |                   | 5911             
+ko201  | TASHLYKOV      |                |                   |                  
+ko201  | uraev          | Ураев          | 5941              | 5941             
+ko201  | yakimova       | Якимова        |                   |                  
+
+ko203  | akbaev         | Акбаев         | 5933              | 5933             
+ko203  | kondratev-dn   |                |                   |                  
+ko203  | kovin          |                |                   |                  
+ko203  | mitrofanova    | Митрофанова    | 5923              | 5923             
+ko203  | Nazukin        | Назукин        | 5953              | 5953             
+ko203  | shilov         | Шилов          | 5903              | 5903             
+ko203  | shmakov        | Шмаков         |                   | 5943             
+ko203  | Suhoruk        | Сухорук        | 5943, 5963        | 5963             
+ko203  | tsatiashvili_v | Цатиашвили     | 5973              | 5983             
+ko203  | tselisheva     | Целищева       |                   | 5973             
+
+ko204  | Gaskarov       |                |                   |                  
+ko204  | gomzikov       | Гомзиков       |                   | 5924             
+ko204  | magasumova     | Магасумова     |                   |                  
+ko204  | ovseychuk      |                |                   |                  
+ko204  | piskunov       | Пискунов       |                   | 5914             
+ko204  | popov          | Попов          | 5904, 5914        | 5904             
+ko204  | popova-dd      | Попова         |                   |                  
+ko204  | sendyurev      |                |                   |                  
+ko204  | shvalev        |                |                   |                  
+ko204  | shvyrev        |                |                   |                  
+
+ko205  | Arkhangelski   | Архангельский  | 5905              | 5905             
+ko205  | durnakov       | Дурнаков       | 5965              | 5925             
+ko205  | Kovyrzina      | Беспятых       | 5945              | 5915             
+ko205  | Nefediev       | Нефедьев       | 5935              | 5935             
+ko205  | shalamova      | Шаламова       | 5915              |                  
+ko205  | Tonkov         |                |                   |                  
+ko205  | UMPELEVA       | Умпелева       | 5925              |                  
+ko205  | Zabolotskich   | Зенкова        | 5955              |                  
+
+ko293  | degtyarev      | Дегтярев       | 5912              | 5912             
+ko293  | krivoschekov   | Кривощеков     |                   | 5932             
+ko293  | stepina        | Стёпина        |                   | 5922             
+
+ko299  | ahunova        | Ахунова        | 5939              |                  
+ko299  | dilman         | Дилман         |                   |                  
+ko299  | Gladusheva     | Гладышева      |                   |                  
+ko299  | gorshkova      | Горшкова       |                   | 5909             
+ko299  | grigorieva     |                |                   |                  
+ko299  | hohlova        | Хохлова        | 5929              |                  
+ko299  | ilinih         |                |                   |                  
+ko299  | Jakovkin       |                |                   |                  
+ko299  | kondakov       |                |                   |                  
+ko299  | korobkova      | Коробкова      |                   |                  
+ko299  | limonova       |                |                   |                  
+ko299  | malkova        |                |                   |                  
+ko299  | mihalev        | Михалев        |                   | 5979             
+ko299  | Novoselov      | Новоселов      |                   | 5949             
+ko299  | olimonova      | Лимонова       |                   | 5969             
+ko299  | Pak            | Пак            | 5959              |                  
+ko299  | Permyakova     | Пермякова      | 5919              |                  
+ko299  | Samsonova      | Самсонова      |                   | 5939             
+ko299  | sartakova      | Сартакова      |                   |                  
+ko299  | strom          | Стром          |                   | 5919             
+ko299  | suleimanov     |                |                   |                  
+ko299  | vorobev        |                |                   |                  
+ko299  | Vozhakova      | Вожакова       | 5969              |                  
+ko299  | zuev           | Зуев           |                   | 5929             
+ko299  | Zykov          | Зыков          |                   | 5959             
+
+ko504  | bekmansurov    |                |                   |                  
+
+ko802  | prokushev      |                |                   |                  
+
+ko804  | kazancev       |                |                   |                  
+ko804  | khudjakoff     |                |                   |                  
+ko804  | Mingalev       | Мингалев       |                   | 5928             
+ko804  | NekrasovMS     |                |                   |                  
+ko804  | PopovEA        |                |                   |                  
+ko804  | povishev       | Повышев        |                   | 5918             
+ko804  | Priakhina      | Пряхина        | 5918              |                  
+ko804  | usanin         | Усанин         | 5908              | 5908             
+ko804  | zidyganov      | Зидыганов      | 5938              | 5938             

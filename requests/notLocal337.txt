@@ -1,0 +1,18 @@
+ko201     14663 260666  0 10:43 pts/33   00:00:00 /calc_data/ANSYS/v221/CFX/bin/../tools/perl-5.32.0/bin/perl -Sx /calc_data/ANSYS/v221/CFX/bin/cfx5launch
+ko201     14729  14663  0 10:44 pts/33   00:00:04 /calc_data/ANSYS/v221/CFX/bin/linux-amd64/Launcher.exe
+ko201     15424  14729  0 10:44 pts/33   00:00:00 /calc_data/ANSYS/v221/CFX/bin/../tools/perl-5.32.0/bin/perl -Sx /calc_data/ANSYS/v221/CFX/bin/cfx5pre
+ko201     15464  15424  1 10:44 pts/33   00:01:21 /calc_data/ANSYS/v221/CFX/bin/linux-amd64/PreGui_ogl.exe -p 15424
+ko201     15468  15464  1 10:44 pts/33   00:01:15 /calc_data/ANSYS/v221/CFX/bin/linux-amd64/PreEngine.exe -g -p 15424 -v -vp 54166 -externalport 0
+ko201     15610  15468  0 10:44 pts/33   00:00:08 /calc_data/ANSYS/v221/licensingclient/linx64/ansyscl -acl 15468.24192 -nodaemon -log /home/ko201/.ansys/ansyscl.p0337.15468.24192.log
+ko201     19055  14729  0 10:46 pts/33   00:00:00 /calc_data/ANSYS/v221/CFX/bin/../tools/perl-5.32.0/bin/perl -Sx /calc_data/ANSYS/v221/CFX/bin/cfx5solve
+ko201     19096  19055  0 10:46 pts/33   00:00:32 /calc_data/ANSYS/v221/CFX/bin/linux-amd64/SolverManager.exe
+ko201     19099  19096  0 10:46 pts/33   00:00:00 /calc_data/ANSYS/v221/CFX/bin/../tools/perl-5.32.0/bin/perl -Sx /calc_data/ANSYS/v221/CFX/bin/cfx5solve -stdout-comms -batch -print-ccl -bg-ccl - -check-for-gui -check-only
+ko201     26474 260666  0 10:57 pts/33   00:00:00 /calc_data/ANSYS/v192/CFX/bin/../tools/perl-5.26.1/bin/perl -Sx /calc_data/ANSYS/v192/CFX/bin/cfx5launch
+ko201     26528  26474  0 10:57 pts/33   00:00:41 /calc_data/ANSYS/v192/CFX/bin/linux-amd64/Launcher.exe
+ko201     30236  26528  0 11:02 pts/33   00:00:00 /calc_data/ANSYS/v192/CFX/bin/../tools/perl-5.26.1/bin/perl -Sx /calc_data/ANSYS/v192/CFX/bin/cfx5solve
+ko201     30277  30236  0 11:02 pts/33   00:00:17 /calc_data/ANSYS/v192/CFX/bin/linux-amd64/SolverManager.exe
+ko201     30401  30277  0 11:02 pts/33   00:00:00 /calc_data/ANSYS/v192/CFX/bin/../tools/perl-5.26.1/bin/perl -Sx /calc_data/ANSYS/v192/CFX/bin/cfx5solve -stdout-comms -batch -print-ccl -bg-ccl - -check-for-gui -check-only
+ko804     61655  55802  0 May25 pts/29   00:04:56 /calc_data/ANSYS/v222/CFX/bin/../tools/perl-5.34.0/bin/perl -Sx /calc_data/ANSYS/v222/CFX/bin/cfx5solve -def Benchmark.def -par-dist p0361*19 p0363*19  -start-method Intel MPI Distributed Parallel
+ko804     61753  61655  0 May25 pts/29   00:45:50 /calc_data/ANSYS/v222/licensingclient/linx64/ansyscl -acl 61655.5590 -nodaemon -log /home/ko804/.ansys/ansyscl.p0337.61655.5590.log
+ko804     61894  61655  0 May25 pts/29   00:00:00 /bin/sh /calc_data_local/ANSYS/v222/commonfiles/MPI/Intel/2018.3.222/linx64/bin/mpirun -configfile /calc_data/users/ko804/zidyganov/SCRIPT/Benchmark_034.dir/appfile -genv I_MPI_PLATFORM auto
+ko804     61903  61894  0 May25 pts/29   00:00:00 mpiexec.hydra -configfile /calc_data/users/ko804/zidyganov/SCRIPT/Benchmark_034.dir/appfile -genv I_MPI_PLATFORM auto

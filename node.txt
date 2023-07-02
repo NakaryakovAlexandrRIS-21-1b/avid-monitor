@@ -1,0 +1,44 @@
+id              id узла								"COL_ID": "318",
+pool            пул узла 							"COL_POOL": "9619",								
+status			статус узла							"COL_STATUS": "On",
+
+load			текущая нагрузка CPU				"COL_CPU": "1904",
+load_prc		текущая нагрузка в %				"COL_CPU_LOAD": "100",
+avg_load		средняя нагрузка CPU				"COL_AVG_LOAD": "93.13",
+process         число активных процессов 			"COL_PROCESS": "19.01",
+ram				занятая оперативная память			"COL_RAM": "29",
+ram_prc			занятая память в %					"COL_RAM_LOAD": "30",
+swap			своп								"COL_SWAP": "0",
+vram_free		свободная графическая память		"COL_GRAM_FREE": "",  только у узлов 337 и 338 (можно  читать из других данных, вместе с другими параметрами этих узлов, которые у меня в global)												
+													
+ethernet		наличие ETH порта					"COL_EXTERNAL": "true",
+adm_note		заметки администратора				"COL_ADM_NOTES": "",
+													
+queue			присутствие в планировщике			"COL_OCHERED": "true",
+plan_status		статус планировщика					"COL_PLANER": "Avail Busy",
+
+user_access		доступ пользователей к узлу			"COL_ACCESS": "ko804, loadl, ko802",
+issued_to		кому выдан ручной узел				"COL_RESERVED": "",
+issue_date		дата выдачи в ручное..				"COL_GIVEN": "",
+
+tasks	        приложения на узле 						"COL_TASK": "ko-201:CFXv192",  tasks != jobs  запущеные приложения могут быть у ручных узлов, но jobs  это только у планировщика
+
+job_id          id задачи на узле 					"COL_JOB_ID": "p0182.37880.0",
+job_type        тип задачи, исходя из приложения    "COL_JOB_TYPE": "C",
+job_owner       владелец задачи						"COL_JOB_OWNER": "ko-201/Arkhangelska-t",
+job_descr		описание задачи						"COL_JOB_DESCRIPTION": "ПД-35/КНД/CFX/КНД с лабиринтами 2196 уточненная сетка",
+job_submit      дата регистрации задачи				"COL_JOB_SUBMITTED": "29/06-09:38",
+job_wait		время ожидания старта				"COL_JOB_WAIT": "0:01",								
+job_calc		время расчета						"COL_JOB_CALC": "26:06",
+job_run			время запуска расчета				"COL_JOB_RUN": "09:39",		время когда расчет стартовал. не вывожу, но можно вывести в качестве подсказки например
+job_plan		запланировано узлов для старта		"COL_JOB_PLAN": "2-4",					
+job_fact		фактически запущено на скольких		"COL_JOB_FACT": "4",
+job_master		мастер узел							"COL_JOB_MASTER": "p0331",
+job_nodes		список узлов интервалом				"COL_JOB_SLAVES": "318,321-323",
+job_nodes_e		списк узлов развернутый				"COL_JOB_SLAVES_E": "318, 321, 322, 323",
+job_path		путь к скрипту запуска				"COL_JOBS": "Arkhangelska-ts/PD-35/calc/Labirints/2196/job.cmd",
+
+
+																
+												
+								

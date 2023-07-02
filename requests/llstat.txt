@@ -1,0 +1,303 @@
+Nodes  CPU Memory Swap   KO Tasks  Nodes(Master)[Slave] Jobname
+p0001  1600%    26Gb  2 ko201:CFXv192    5(p0001)[23,25-27] uraev/PD35/old_new/calc_08/jobcfx19_16_deduplicate.cmd
+p0002  1600%    26Gb  1 ko205:FENSAPv194 4(p0002)[8,12,13] Tonkov/PD_8/FENSAP/BIG_BOX/2d_MODEL_HF/run_DROP3D_BIG_BOX_HF_comp_vel/run_drop3d.cmd
+p0003  1600%    15Gb  0 ko204:CFXv194   20(p0003)[4-7,9-11,17,19-21,150,175,195-199,203] piskunov/baldauf/LES_M085_WALE/job.cmd
+p0004  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0005  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0006  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0007  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0008  1600%    27Gb  1 ko205:FENSAPv194  (p0002)
+p0009  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0010  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0011  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0012  1600%    27Gb  1 ko205:FENSAPv194  (p0002)
+p0013  1600%    27Gb  0 ko205:FENSAPv194  (p0002)
+p0014     1%     2Gb  0                 
+p0015  1600%    26Gb  2 ko201:CFXv192    5(p0015)[22,24,43,44] uraev/PD35/old_new/calc_takeoff/jobcfx19_16_deduplicate.cmd
+p0016     0%     2Gb  0                 
+p0017  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0018     0%     2Gb  0                 
+p0019  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0020  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0021  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0022  1600%    26Gb  1 ko201:CFXv192     (p0015)
+p0023  1600%    26Gb  1 ko201:CFXv192     (p0001)
+p0024  1600%    24Gb  1 ko201:CFXv192     (p0015)
+p0025  1600%    24Gb  0 ko201:CFXv192     (p0001)
+p0026  1600%    21Gb  0 ko201:CFXv192     (p0001)
+p0027  1600%    21Gb  0 ko201:CFXv192     (p0001)
+p0028  1600%    12Gb  0 ko204:CFXv194   12(p0028)[47-49,143,154-156,158,160,192,202] ovseychuk/WORK/133/TS2_2023_non_stationary/v2/job.cmd
+p0043  1600%    21Gb  1 ko201:CFXv192     (p0015)
+p0044  1600%    21Gb  0 ko201:CFXv192     (p0015)
+p0045     0%     2Gb  1                 
+p0046     0%     2Gb  1                 
+p0047  1600%    11Gb  0 ko204:CFXv194     (p0028)
+p0048  1600%    10Gb  0 ko204:CFXv194     (p0028)
+p0049  1600%    10Gb  0 ko204:CFXv194     (p0028)
+p0050  1600%    23Gb  1 ko204:CFXv194   
+p0051  1600%    22Gb  1 ko204:CFXv194   
+p0052  1600%    22Gb  1 ko204:CFXv194   
+p0053  1600%    21Gb  1 ko204:CFXv194   
+p0054  1600%    22Gb  1 ko204:CFXv194   
+p0055  1600%    21Gb  1 ko204:CFXv194   
+p0056  1600%    22Gb  1 ko204:CFXv194   
+p0057  1600%    23Gb  1 ko204:CFXv194   
+p0058  1600%    22Gb  1 ko204:CFXv194   
+p0059  1600%    22Gb  1 ko204:CFXv194   
+p0060  1600%    22Gb  1 ko204:CFXv194   
+p0061  1600%    23Gb  0 ko204:CFXv194   
+p0062  1600%    23Gb  0 ko204:CFXv194   
+p0063  1600%    22Gb  0 ko204:CFXv194   
+p0064  1600%    22Gb  0 ko204:CFXv194   
+p0065  1600%    22Gb  0 ko204:CFXv194   
+p0066  1600%    22Gb  0 ko204:CFXv194   
+p0067  1600%    22Gb  0 ko204:CFXv194   
+p0068  1600%    22Gb  0 ko204:CFXv194   
+p0069  1600%    21Gb  0 ko204:CFXv194   
+p0070  1600%    22Gb  0 ko204:CFXv194   
+p0078   101%    11Gb  1 ko-293:ACTRAN    1(p0078)[] degtyarev/from_users/ACTRAN/PD35_actual_geom_nabor/jobACTRAN_8_run_7.cmd
+p0079  1200%     7Gb  0 ko205:CFXv194    4(p0079)[84,117,118] Tonkov/PD_8/CFX/2d_model_T_wall_15_06/jobcfx19_deduplicate.cmd
+p0080  1164%    11Gb  0 ko201:CFXv192    3(p0080)[81,82] plotnikov/K-1-240/4800OB/23_06_14_FAN_NULL_218_105/job.cmd
+p0081  1200%    11Gb  0 ko201:CFXv192     (p0080)
+p0082  1200%    12Gb  0 ko201:CFXv192     (p0080)
+p0083  1200%    15Gb  0 ko201:CFXv192    7(p0083)[85-87,96,98,99] yakimova/k-1-90/NRU_km5034/3900/jobcfx19.cmd
+p0084  1200%     6Gb  0 ko205:CFXv194     (p0079)
+p0085  1200%    15Gb  0 ko201:CFXv192     (p0083)
+p0086  1200%    15Gb  0 ko201:CFXv192     (p0083)
+p0087  1200%    15Gb  0 ko201:CFXv192     (p0083)
+p0088  1200%     8Gb  1 ko804:CFXv194     (p0104)
+p0089  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0090  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0091     0%     4Gb  0                 
+p0092  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0093  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0094  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0095  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0096  1200%    15Gb  0 ko201:CFXv192     (p0083)
+p0098  1200%    15Gb  0 ko201:CFXv192     (p0083)
+p0099  1200%    14Gb  0 ko201:CFXv192     (p0083)
+p0100     0%     2Gb  0                 
+p0101   101%     4Gb  0 ko293:ACTRAN     1(p0101)[] stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_1.cmd
+p0102   101%     4Gb  0 ko293:ACTRAN     1(p0102)[] stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_2.cmd
+p0103  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0104  1200%    10Gb  0 ko804:CFXv194   22(p0104)[88-90,92-95,103-106,108-112,114-116,119-121] PopovEA/Ansys/KPA/30.05.2023/PD8/dalshe/nestacionar/job.cmd
+p0105  1200%     8Gb  0 rsmadm:mono;ko804:CFXv194 (p0104)
+p0106  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0107   102%     3Gb  1                  1(p0107)[] stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_3.cmd
+p0108  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0109  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0110  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0111  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0112  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0114  1200%     8Gb  0 rsmadm:mono;ko804:CFXv194 (p0104)
+p0115  1200%     8Gb  0 rsmadm:mono;ko804:CFXv194 (p0104)
+p0116  1200%     8Gb  1 ko804:CFXv194     (p0104)
+p0117  1200%     7Gb  0 ko205:CFXv194     (p0079)
+p0118  1200%     7Gb  0 ko205:CFXv194     (p0079)
+p0119  1200%     8Gb  0 rsmadm:mono;ko804:CFXv194 (p0104)
+p0120  1200%     8Gb  0 rsmadm:mono;ko804:CFXv194 (p0104)
+p0121  1200%     8Gb  0 ko804:CFXv194     (p0104)
+p0122   101%     8Gb  0 ko293:ACTRAN     1(p0122)[] stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_4.cmd
+p0123     0%     2Gb  0                 
+p0124   100%     4Gb  0 ko293:ACTRAN     1(p0124)[] stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_0.cmd
+p0141     1%     2Gb  0                 
+p0143  1600%    10Gb  0 ko204:CFXv194     (p0028)
+p0144     1%     2Gb  0                 
+p0145     1%     2Gb  1                 
+p0146     0%     2Gb  1                 
+p0147     0%     2Gb  0                 
+p0148     0%     2Gb  0                 
+p0150  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0151     0%     2Gb  0                 
+p0152     1%     2Gb  1                 
+p0153     1%     2Gb  1                 
+p0154  1600%    10Gb  1 ko204:CFXv194     (p0028)
+p0155  1600%    12Gb  0 ko204:CFXv194     (p0028)
+p0156  1600%    12Gb  0 ko204:CFXv194     (p0028)
+p0157     0%     2Gb  0                 
+p0158  1600%    11Gb  1 ko204:CFXv194     (p0028)
+p0159     1%     2Gb  0                 
+p0160  1600%    10Gb  0 ko204:CFXv194     (p0028)
+p0161     0%     2Gb  1                 
+p0162   802%    25Gb  0 ko299:ANSYSv191-WB 2(p0162)[163] sartakova/privod/jobworkbench191.cmd
+p0163   801%    19Gb  0 ko299:ANSYSv191   (p0162)
+p0164  1600%    27Gb  0 ko203:CFXv194     (p0166)
+p0165     7%     3Gb  0                 
+p0166  1600%    33Gb  0 ko203:CFXv194    8(p0166)[164,168,174,183-186] mitrofanova/PD35/PKS/sektor15/calc/job.cmd
+p0167     1%    16Gb  0                 
+p0168  1600%    33Gb  0 ko203:CFXv194     (p0166)
+p0169     2%     6Gb  0 ko-293:xfce-polkit,xfce4-power-manager,xfce4-session;ko-213:xfce-polkit,xfce4-power-manager,xfce4-session;ko-203:xfce-polkit,xfce4-power-manager,xfce4-session;ko-201:xfce-polkit,xfce4-power-manager,xfce4-session;ko201:xfce-polk 
+p0174  1600%    32Gb  0 ko203:CFXv194     (p0166)
+p0175  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0176  1600%    17Gb  0 ko201:CFXv192    7(p0176)[177,193,194,200,201,208] yakimova/k-1-90/NRU_km5034/3450/jobcfx19.cmd
+p0177  1600%    24Gb  0 ko201:CFXv192     (p0176)
+p0182     3%     3Gb  0 ko205:FENSAPv194;loadl:scheduler 
+p0183  1600%    26Gb  0 ko203:CFXv194     (p0166)
+p0184  1600%    26Gb  0 ko203:CFXv194     (p0166)
+p0185  1600%    26Gb  0 ko203:CFXv194     (p0166)
+p0186  1600%    26Gb  0 ko203:CFXv194     (p0166)
+p0187     0%     2Gb  0                 
+p0188  1600%     6Gb  0 ko205:CFXv194    6(p0188)[189,204,205,207,209] Tonkov/PD_8/CFX/2d_model_HeatFlux_wall_15_06/jobcfx19_deduplicate.cmd
+p0189  1600%     6Gb  0 ko205:CFXv194     (p0188)
+p0190     1%     2Gb  0                 
+p0191     1%     2Gb  0                 
+p0192  1600%    11Gb  1 ko204:CFXv194     (p0028)
+p0193  1600%    17Gb  0 ko201:CFXv192     (p0176)
+p0194  1600%    16Gb  1 ko201:CFXv192     (p0176)
+p0195  1600%    14Gb  0 ko204:CFXv194     (p0003)
+p0196  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0197  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0198  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0199  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0200  1600%    16Gb  0 ko201:CFXv192     (p0176)
+p0201  1600%    16Gb  0 ko201:CFXv192     (p0176)
+p0202  1600%    10Gb  1 ko204:CFXv194     (p0028)
+p0203  1600%    15Gb  0 ko204:CFXv194     (p0003)
+p0204  1600%     6Gb  0 ko205:CFXv194     (p0188)
+p0205  1600%     6Gb  0 ko205:CFXv194     (p0188)
+p0206     1%     2Gb  0                 
+p0207  1600%     6Gb  0 ko205:CFXv194     (p0188)
+p0208  1600%    15Gb  0 ko201:CFXv192     (p0176)
+p0209  1600%     6Gb  1 ko205:CFXv194     (p0188)
+p0210     0%     2Gb  0                 
+p0211     0%     2Gb  0                 
+p0212     1%     2Gb  1                 
+p0213     1%     2Gb  1                 
+p0214     0%     2Gb  0                 
+p0215  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0216  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0217  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0218  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0219  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0220  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0221  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0222  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0223  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0224  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0225  1600%     8Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0226  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0227  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0228  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0229  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0230  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0231  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0232  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0233  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0234  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0235  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0236  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0237  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0238  1600%     7Gb  0 ko-205:FLUENTv191;rsmadm:ARCnode191 
+p0253   150%    17Gb  0                 
+p0254     1%     3Gb  0                 
+p0256  1600%    12Gb  0 ko-504:ProCAST2022 (p0257)
+p0257  1600%    13Gb  0 ko-504:ProCAST2022 2(p0257)[256] bogdanov/1050400002/v02_cooling/jobprocast20220.cmd
+p0258     1%     3Gb  0                 
+p0259  1901%     9Gb  0 ko201:CFXv221     (p0272)
+p0260  1901%    10Gb  0 ko201:CFXv221     (p0272)
+p0261  1901%    10Gb  0 ko201:CFXv221     (p0272)
+p0262  1901%     9Gb  0 ko201:CFXv221     (p0272)
+p0263  1901%    43Gb  0 ko201:CFXv192     (p0266)
+p0264     0%     3Gb  0                 
+p0265  1901%    37Gb  0 ko201:CFXv192     (p0266)
+p0266  1901%    33Gb  0 ko201:CFXv192    3(p0266)[263,265] uraev/PD35/old_new/calc_09/jobcfx19_16_deduplicate.cmd
+p0267  1901%    10Gb  0 ko201:CFXv221     (p0272)
+p0268  1592%    14Gb  0 ko-504:ProCAST2022 (p0279)
+p0269     3%     3Gb  0 ko802:watch     
+p0270  1901%    10Gb  0 ko201:CFXv221     (p0272)
+p0271  1901%     9Gb  0 ko201:CFXv221     (p0272)
+p0272  1901%    10Gb  0 ko201:CFXv221    8(p0272)[259-262,267,270,271] amosova/D-30/calc/d30_vna0_otbor_zpv_close/9500/heko_model/job.cmd
+p0273     0%     3Gb  0                 
+p0274  1901%    33Gb  0 ko203:CFXv194     (p0311)
+p0275  1901%    34Gb  0 ko203:CFXv194     (p0311)
+p0276     0%     3Gb  0                 
+p0277     0%     3Gb  0                 
+p0278     0%     3Gb  0                 
+p0279  1589%    15Gb  0 ko-504:ProCAST2022 2(p0279)[268] bogdanov/1050400002/v01_Cryst_temp800_noZMO/jobprocast20220.cmd
+p0280     0%     3Gb  0                 
+p0281     0%     3Gb  0                 
+p0282     0%     3Gb  0                 
+p0283     0%     3Gb  0                 
+p0284  1594%    14Gb  0 ko-504:ProCAST2022 (p0328)
+p0285  1901%    33Gb  0 ko203:CFXv194     (p0311)
+p0286  1901%    32Gb  0 ko203:CFXv194     (p0311)
+p0287  1901%    33Gb  0 ko203:CFXv194     (p0311)
+p0288  1901%    33Gb  2 ko203:CFXv194     (p0311)
+p0289  1901%    66Gb  0 ko204:CFXv194     (p0325)
+p0291  1901%    66Gb  0 ko204:CFXv194     (p0325)
+p0292  1901%    67Gb  1 ko204:CFXv194     (p0325)
+p0293  1901%    64Gb  0 ko204:CFXv194     (p0335)
+p0294  1901%    66Gb  0 ko204:CFXv194     (p0335)
+p0295     1%     5Gb  0 ko-203:CFXv194  
+p0296  1901%    66Gb  0 ko204:CFXv194     (p0335)
+p0297  1901%    59Gb  0 ko203:CFXv194     (p0336)
+p0298  1901%    74Gb  0 ko203:CFXv194     (p0336)
+p0299  1901%    75Gb  2 ko203:CFXv194     (p0336)
+p0300  1901%    70Gb  0 ko203:CFXv194     (p0336)
+p0301  1901%    67Gb  0 ko203:CFXv194     (p0336)
+p0302  1901%    69Gb  0 ko203:CFXv194     (p0336)
+p0303  1901%    72Gb  0 ko203:CFXv194     (p0336)
+p0304  1901%    75Gb  0 ko203:CFXv194     (p0336)
+p0305  1901%    69Gb  0 ko203:CFXv194     (p0336)
+p0306  1901%    89Gb  1 ko204:CFXv194     (p0313)
+p0307  1902%    34Gb  0 ko203:CFXv194     (p0311)
+p0308  1901%    31Gb  0 ko203:CFXv194     (p0311)
+p0309  1901%    33Gb  0 ko203:CFXv194     (p0311)
+p0310  1901%    33Gb  0 ko203:CFXv194     (p0311)
+p0311  1902%    35Gb  0 ko203:CFXv194   11(p0311)[274,275,285-288,307-310] shilov/Osipov/disk/work/FU_CFX/jobcfx.cmd
+p0312  1901%    83Gb  2 ko204:CFXv194     (p0313)
+p0313  1901%    86Gb  0 ko204:CFXv194    3(p0313)[306,312] sendyurev/100_HPT/2023/AZ_soldered/job.cmd
+p0314  1901%    87Gb  0 ko204:CFXv194     (p0326)
+p0315  1901%    88Gb  0 ko204:CFXv194     (p0326)
+p0316  1901%    61Gb  0 ko203:CFXv194     (p0336)
+p0317  1901%    69Gb  0 ko203:CFXv194     (p0336)
+p0318  1902%    66Gb  0 ko203:CFXv194     (p0336)
+p0319  1901%    63Gb  0 ko203:CFXv194     (p0336)
+p0320  1902%    68Gb  0 ko203:CFXv194     (p0336)
+p0321  1901%    62Gb  0 ko203:CFXv194     (p0336)
+p0322  1901%    72Gb  0 ko203:CFXv194     (p0336)
+p0323  1901%    74Gb  0 ko203:CFXv194     (p0336)
+p0324  1901%    69Gb  0 ko203:CFXv194     (p0336)
+p0325  1902%    67Gb  0 ko204:CFXv194    4(p0325)[289,291,292] sendyurev/105_SL1/final_kozirek/job.cmd
+p0326  1901%    90Gb  2 ko204:CFXv194    3(p0326)[314,315] sendyurev/100_HPT/2023/AZ_blade/job.cmd
+p0327     0%     4Gb  3                 
+p0328  1571%    17Gb  0 ko-504:ProCAST2022 2(p0328)[284] bogdanov/1050400002/v01_Cryst_temp800/jobprocast20220.cmd
+p0329     1%     4Gb  0                 
+p0330  1901%    65Gb  0 ko203:CFXv194     (p0336)
+p0331     0%     4Gb  1                 
+p0332     0%     4Gb  0                 
+p0333     0%     4Gb  0                 
+p0334     0%     4Gb  0                 
+p0335  1901%    69Gb  0 ko204:CFXv194    4(p0335)[293,294,296] sendyurev/105_SL1/final_no_kozirek/v1/job.cmd
+p0336  1951%    65Gb  0 ko-205:WrkBnch191;rsmadm:ARCmaster191,ARCnode191,RSMlauncher191,mono;ko203:CFXv194 20(p0336)[297-305,316-324,330] mitrofanova/PD35/PKS/CH_Zav/calc/26_v1/job.cmd
+p0337   287%   436Gb  4 ko-203:CFXv194,CFXv194-Pre,FLUENTv222;ko-201:CFXv192,CFXv192-Post,CFXv192-Pre;ko201:CFXv192,CFXv192-Post,CFXv192-Pre,PreEngine,PreGui_ogl,WrkBnch192;ko203:CFXv194,CFXv194-Post,CFXv194-Pre;ko204:CFXv194;ko205:ICEMCFDv191,ICEMCF 
+p0338   278%   510Gb 16 ko-203:CFXv194-Pre,med;ko-201:CFXv192,CFXv192-Post,CFXv192-Pre;ko201:WrkBnch192;ko203:CFXv194,CFXv194-Pre;ko204:CFXv194;ko205:CFXv191,CFXv191-Post,CFXv191-Pre,CFXv194,CFXv194-Post,CFXv194-Pre,FENSAPv194;ko802:WrkBnch222;ko80 
+p0339    31%    16Gb  0 ko205:FENSAPv194 
+p0340     1%    18Gb  0                 
+p0341     1%    18Gb  0                 
+p0342     1%    18Gb  0                 
+p0343     1%    17Gb  0                 
+p0344     1%    16Gb  0                 
+p0345     1%    10Gb  0                 
+p0346     0%    10Gb  0                 
+p0347  3409%    65Gb  2 ko804:FLUENTv194 
+p0348  3411%    63Gb  0 ko804:FLUENTv194 
+p0349  3412%    65Gb  1 ko804:FLUENTv194 
+p0350  3401%    69Gb  0 ko203:CFXv194   
+p0351  3401%    66Gb  0 ko203:CFXv194   
+p0352     0%     8Gb  0 ko-201:CFXv192  
+p0353  3403%    45Gb  0 ko-203:CFXv194  
+p0354  3403%    64Gb  0 ko203:CFXv194   
+p0355 14430%   570Gb  0 ko804:FLUENTv194,FLUENTv202 
+p0356  3401%    65Gb  0 ko203:CFXv194   
+p0357  3122%    29Gb  0 ko205:FLUENTv194 
+p0358  3129%    33Gb  0 ko205:FLUENTv194 
+p0359  3126%    35Gb  0 ko205:FLUENTv194,<defunct> 
+p0360     0%     7Gb  0 ko-201:CFXv192  
+p0361     1%     7Gb  0                 
+p0362  3401%    31Gb  0 ko201:CFXv194   
+p0363  3402%    69Gb  0 ko-201:CFXv202  
+Scheduled job (14560876) waiting free node(s): 1     solver  -+--- p0182.37472.0     ko293/stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_5.cmd
+Scheduled job (14560879) waiting free node(s): 1     solver  -+--- p0182.37473.0     ko293/stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_6.cmd
+Scheduled job (14560882) waiting free node(s): 1     solver  -+--- p0182.37474.0     ko293/stepina/Imitator_VZ/SamoletnayVZ_Posadka_Raschet_2/jobACTRAN_8_run_7.cmd
+Time:  15/06/2023  12:16

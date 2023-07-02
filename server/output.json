@@ -1,0 +1,604 @@
+[
+  {
+    "ko": "ko-201",
+    "login": "Arkhangelska-t",
+    "name": "Архангельская",
+    "VNC337": "5971",
+    "VNC338": "5971"
+  },
+  {
+    "ko": "ko-201",
+    "login": "Korablina",
+    "name": "Кораблина",
+    "VNC337": "5961",
+    "VNC338": "5961"
+  },
+  {
+    "ko": "ko-201",
+    "login": "shvedov",
+    "name": "Шведов",
+    "VNC337": "5951",
+    "VNC338": "5951"
+  },
+  {
+    "ko": "ko-201",
+    "login": "Tretyakovich-e",
+    "name": "Третьякович",
+    "VNC337": "5981",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko-203",
+    "login": "kazimardanov-m",
+    "name": "Казимарданов",
+    "VNC337": "5913",
+    "VNC338": "5913"
+  },
+  {
+    "ko": "ko-504",
+    "login": "bogdanov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko-504",
+    "login": "bushuev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko-504",
+    "login": "dagldyan",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko-504",
+    "login": "dongauser",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko201",
+    "login": "amosova",
+    "name": "Амосова",
+    "VNC337": "5911",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko201",
+    "login": "Arkhangelska",
+    "name": "Архангельская",
+    "VNC337": "5921",
+    "VNC338": "5921"
+  },
+  {
+    "ko": "ko201",
+    "login": "fedotov",
+    "name": "Федотов",
+    "VNC337": "5991",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko201",
+    "login": "Pikulev",
+    "name": "Пикулев",
+    "VNC337": "5901",
+    "VNC338": "5901"
+  },
+  {
+    "ko": "ko201",
+    "login": "Platunova",
+    "name": "Платунова",
+    "VNC337": "5931",
+    "VNC338": "5931"
+  },
+  {
+    "ko": "ko201",
+    "login": "plotnikov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko201",
+    "login": "Sedova",
+    "name": "Седова",
+    "VNC337": "",
+    "VNC338": "5911"
+  },
+  {
+    "ko": "ko201",
+    "login": "TASHLYKOV",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko201",
+    "login": "uraev",
+    "name": "Ураев",
+    "VNC337": "5941",
+    "VNC338": "5941"
+  },
+  {
+    "ko": "ko201",
+    "login": "yakimova",
+    "name": "Якимова",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko203",
+    "login": "akbaev",
+    "name": "Акбаев",
+    "VNC337": "5933",
+    "VNC338": "5933"
+  },
+  {
+    "ko": "ko203",
+    "login": "kondratev-dn",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko203",
+    "login": "kovin",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko203",
+    "login": "mitrofanova",
+    "name": "Митрофанова",
+    "VNC337": "5923",
+    "VNC338": "5923"
+  },
+  {
+    "ko": "ko203",
+    "login": "Nazukin",
+    "name": "Назукин",
+    "VNC337": "5953",
+    "VNC338": "5953"
+  },
+  {
+    "ko": "ko203",
+    "login": "shilov",
+    "name": "Шилов",
+    "VNC337": "5903",
+    "VNC338": "5903"
+  },
+  {
+    "ko": "ko203",
+    "login": "shmakov",
+    "name": "Шмаков",
+    "VNC337": "",
+    "VNC338": "5943"
+  },
+  {
+    "ko": "ko203",
+    "login": "Suhoruk",
+    "name": "Сухорук",
+    "VNC337": "5943, 5963",
+    "VNC338": "5963"
+  },
+  {
+    "ko": "ko203",
+    "login": "tsatiashvili_v",
+    "name": "Цатиашвили",
+    "VNC337": "5973",
+    "VNC338": "5983"
+  },
+  {
+    "ko": "ko203",
+    "login": "tselisheva",
+    "name": "Целищева",
+    "VNC337": "",
+    "VNC338": "5973"
+  },
+  {
+    "ko": "ko204",
+    "login": "Gaskarov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "gomzikov",
+    "name": "Гомзиков",
+    "VNC337": "",
+    "VNC338": "5924"
+  },
+  {
+    "ko": "ko204",
+    "login": "magasumova",
+    "name": "Магасумова",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "ovseychuk",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "piskunov",
+    "name": "Пискунов",
+    "VNC337": "",
+    "VNC338": "5914"
+  },
+  {
+    "ko": "ko204",
+    "login": "popov",
+    "name": "Попов",
+    "VNC337": "5904, 5914",
+    "VNC338": "5904"
+  },
+  {
+    "ko": "ko204",
+    "login": "popova-dd",
+    "name": "Попова",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "sendyurev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "shvalev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko204",
+    "login": "shvyrev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko205",
+    "login": "Arkhangelski",
+    "name": "Архангельский",
+    "VNC337": "5905",
+    "VNC338": "5905"
+  },
+  {
+    "ko": "ko205",
+    "login": "durnakov",
+    "name": "Дурнаков",
+    "VNC337": "5965",
+    "VNC338": "5925"
+  },
+  {
+    "ko": "ko205",
+    "login": "Kovyrzina",
+    "name": "Беспятых",
+    "VNC337": "5945",
+    "VNC338": "5915"
+  },
+  {
+    "ko": "ko205",
+    "login": "Nefediev",
+    "name": "Нефедьев",
+    "VNC337": "5935",
+    "VNC338": "5935"
+  },
+  {
+    "ko": "ko205",
+    "login": "shalamova",
+    "name": "Шаламова",
+    "VNC337": "5915",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko205",
+    "login": "Tonkov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko205",
+    "login": "UMPELEVA",
+    "name": "Умпелева",
+    "VNC337": "5925",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko205",
+    "login": "Zabolotskich",
+    "name": "Зенкова",
+    "VNC337": "5955",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko293",
+    "login": "degtyarev",
+    "name": "Дегтярев",
+    "VNC337": "5912",
+    "VNC338": "5912"
+  },
+  {
+    "ko": "ko293",
+    "login": "krivoschekov",
+    "name": "Кривощеков",
+    "VNC337": "",
+    "VNC338": "5932"
+  },
+  {
+    "ko": "ko293",
+    "login": "stepina",
+    "name": "Стёпина",
+    "VNC337": "",
+    "VNC338": "5922"
+  },
+  {
+    "ko": "ko299",
+    "login": "ahunova",
+    "name": "Ахунова",
+    "VNC337": "5939",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "dilman",
+    "name": "Дилман",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "Gladusheva",
+    "name": "Гладышева",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "gorshkova",
+    "name": "Горшкова",
+    "VNC337": "",
+    "VNC338": "5909"
+  },
+  {
+    "ko": "ko299",
+    "login": "grigorieva",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "hohlova",
+    "name": "Хохлова",
+    "VNC337": "5929",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "ilinih",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "Jakovkin",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "kondakov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "korobkova",
+    "name": "Коробкова",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "limonova",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "malkova",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "mihalev",
+    "name": "Михалев",
+    "VNC337": "",
+    "VNC338": "5979"
+  },
+  {
+    "ko": "ko299",
+    "login": "Novoselov",
+    "name": "Новоселов",
+    "VNC337": "",
+    "VNC338": "5949"
+  },
+  {
+    "ko": "ko299",
+    "login": "olimonova",
+    "name": "Лимонова",
+    "VNC337": "",
+    "VNC338": "5969"
+  },
+  {
+    "ko": "ko299",
+    "login": "Pak",
+    "name": "Пак",
+    "VNC337": "5959",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "Permyakova",
+    "name": "Пермякова",
+    "VNC337": "5919",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "Samsonova",
+    "name": "Самсонова",
+    "VNC337": "",
+    "VNC338": "5939"
+  },
+  {
+    "ko": "ko299",
+    "login": "sartakova",
+    "name": "Сартакова",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "strom",
+    "name": "Стром",
+    "VNC337": "",
+    "VNC338": "5919"
+  },
+  {
+    "ko": "ko299",
+    "login": "suleimanov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "vorobev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "Vozhakova",
+    "name": "Вожакова",
+    "VNC337": "5969",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko299",
+    "login": "zuev",
+    "name": "Зуев",
+    "VNC337": "",
+    "VNC338": "5929"
+  },
+  {
+    "ko": "ko299",
+    "login": "Zykov",
+    "name": "Зыков",
+    "VNC337": "",
+    "VNC338": "5959"
+  },
+  {
+    "ko": "ko504",
+    "login": "bekmansurov",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko802",
+    "login": "prokushev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "kazancev",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "khudjakoff",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "Mingalev",
+    "name": "Мингалев",
+    "VNC337": "",
+    "VNC338": "5928"
+  },
+  {
+    "ko": "ko804",
+    "login": "NekrasovMS",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "PopovEA",
+    "name": "",
+    "VNC337": "",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "povishev",
+    "name": "Повышев",
+    "VNC337": "",
+    "VNC338": "5918"
+  },
+  {
+    "ko": "ko804",
+    "login": "Priakhina",
+    "name": "Пряхина",
+    "VNC337": "5918",
+    "VNC338": ""
+  },
+  {
+    "ko": "ko804",
+    "login": "usanin",
+    "name": "Усанин",
+    "VNC337": "5908",
+    "VNC338": "5908"
+  },
+  {
+    "ko": "ko804",
+    "login": "zidyganov",
+    "name": "Зидыганов",
+    "VNC337": "5938",
+    "VNC338": "5938"
+  }
+]

@@ -1,0 +1,13 @@
+ko-201    36207      1  0 Jun05 pts/49   00:00:00 /calc_data/NUMECA/141/_pvm/lib/LINUXx86_64/pvmd3 -np0338
+ko-201    36314  36207  0 Jun05 pts/49   00:00:00 /calc_data/NUMECA/141/_pvm/bin/LINUXx86_64/pvmgs
+ko804     56838      1  0 10:51 ?        00:00:00 /bin/bash /calc_data/LOGOS/5.3.22.805/ScientificView/RunScientificView
+ko804     57019  56838  3 10:51 ?        00:02:48 /calc_data/LOGOS/5.3.22.805/ScientificView/ScientificView
+ko804     62499 243573  0 May22 pts/36   00:00:00 /calc_data/ANSYS/v194/CFX/bin/../tools/perl-5.26.1/bin/perl -Sx /calc_data/ANSYS/v194/CFX/bin/cfx5launch
+ko804     62621  62499  0 May22 pts/36   00:25:23 /calc_data/ANSYS/v194/CFX/bin/linux-amd64/Launcher.exe
+ko804     75714  66825  0 May18 pts/54   00:00:00 /calc_data/INTEL/Cmake3232/bin/ccmake ..
+ko-203   236454 234771  0 Jun01 pts/82   00:00:00 /bin/csh -f /calc_data/ANSYS/v194/icemcfd/linux64_amd/bin/icemcfd
+ko-203   236502 236454  0 Jun01 pts/82   01:36:00 /calc_data/ANSYS/v194/icemcfd/linux64_amd/bin/med
+ko804    241611 241257  0 Jun02 pts/93   00:02:29 /calc_data/LOGOS/5.3.22.805/LOGOS-PP-CFD/Bin/logos-pp
+ko804    241807      1  0 Jun02 ?        02:39:10 /calc_data/LOGOS/5.3.22.805/LOGOS-PP-CFD/Bin/./lcontroller --no-daemonize -v --no-console
+ko804    242933      1  0 Jun02 ?        00:00:00 /bin/bash /calc_data/LOGOS/5.3.22.805/ScientificView/RunScientificView
+ko804    243240 242933  0 Jun02 ?        00:32:00 /calc_data/LOGOS/5.3.22.805/ScientificView/ScientificView
